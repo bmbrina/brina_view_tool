@@ -1,2 +1,2 @@
-require "bmb_view_tool/version"
-require "bmb_view_tool/renderer"
+require "brina_view_tool/version"
+require "brina_view_tool/renderer"
