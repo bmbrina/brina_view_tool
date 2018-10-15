@@ -5,7 +5,7 @@ require "brina_view_tool/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "brina_view_tool"
-  spec.version       = BmbViewTool::VERSION
+  spec.version       = BrinaViewTool::VERSION
   spec.authors       = ["Barbara Brina"]
   spec.email         = ["bmbrina9@gmail.com"]
 
