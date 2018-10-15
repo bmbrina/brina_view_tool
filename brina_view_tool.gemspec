@@ -1,10 +1,10 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "bmb_view_tool/version"
+require "brina_view_tool/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "bmb_view_tool"
+  spec.name          = "brina_view_tool"
   spec.version       = BmbViewTool::VERSION
   spec.authors       = ["Barbara Brina"]
   spec.email         = ["bmbrina9@gmail.com"]
